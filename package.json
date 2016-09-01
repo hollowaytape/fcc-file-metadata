@@ -1,0 +1,29 @@
+{
+  "name": "fcc-file-metadata",
+  "version": "1.0.0",
+  "description": "Determines size of uploaded files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowaytape/fcc-file-metadata.git"
+  },
+  "keywords": [
+    "file",
+    "metadata",
+    "multer"
+  ],
+  "author": "hollowaytape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollowaytape/fcc-file-metadata/issues"
+  },
+  "homepage": "https://github.com/hollowaytape/fcc-file-metadata#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
